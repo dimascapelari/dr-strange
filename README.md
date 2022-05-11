@@ -12,7 +12,13 @@
 
 ## 💻 Sobre o Projeto:
 
-Página dedicada ao último lançamento da Marvel, Doutor Estranho no Multiverso da Loucura.
+Doutor Estranho é meu projeto dessa semana baseado no Filme do último lançamento da Marvel. Utilizando HTML, muito CSS com animações e efeitos, e também JavaScript, adicionando e removendo classes no CSS para dar efeito no Menu Mobile.
+
+Esse é o Projeto inicial onde agora a ideia é desenvolver as páginas PERSONAGENS, GALERIAS E VÍDEOS utilizando as tecnologias que domino como Vue.JS e JavaScript.
+
+Em breve sairá a nova atualização desse projeto.
+
+Deploy da página: https://dr-estranho-dimas.netlify.app/
 
 
 ## 🛠 Tecnologias:
